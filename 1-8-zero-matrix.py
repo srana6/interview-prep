@@ -18,20 +18,54 @@ Analysis:
 	Run time is horrible if whole matrix is 0
 """
 
-def clear_matrix(matrix, i, j):
-	n = len(matrix)
+def clear_row(matrix, row, start = 0):
+	for j in range(start, len(matrix)):
+		matrix[row][j] = 0
 
-def zero_matrix(matrix):
-	zeros = set()
+def clear_col(matrix, col, start = 0):
+	for i in range(start, len(matrix)):
+		matrix[i][col] = 0
+
+def clear_matrix(matrix, first_row = False, first_col = False):		
+	for i in range(1, len(matrix)):
+		if matrix[i][0] == 0:
+			clear_row(matrix, i, 1)
+
+		if matrix[0][i] == 0:
+			clear_col(matrix, i, 1)
+
+	if first_row: clear_row(matrix, 0)
+	if first_col: clear_col(matrix, 0)
+
+
+def zero_matrix(matrix):	
 	n = len(matrix)
+	first_col = False
+	first_row = False
+
+	for i in range(n):
+		if matrix[i][0] == 0:
+			first_col = True
+
+		if matrix[0][i] == 0:
+			first_row = True
+
 	for i in range(n):
 		for j in range(n):
 			if matrix[i][j] == 0:
-				matrix[i][j] = None
-	
-	for i in range(n):
-		for j in range(n):
-			if matrix[i][j] == None:
-				clear_matrix(matrix, i, j)
+				matrix[i][0] = 0
+				matrix[0][j] = 0
 
+	clear_matrix(matrix, first_row, first_col)
 
+matrix = [
+	[1, 0, 3, 4],
+	[2, 3, 7, 8],
+	[6, 4, 0, 1],
+	[8, 3, 5, 2]
+]
+
+zero_matrix(matrix)
+
+for i in range(len(matrix)):
+	print (matrix[i])

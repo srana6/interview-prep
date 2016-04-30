@@ -1,0 +1,74 @@
+It's Python for sure because of fantastic libraries like Numpy and Pandas, and the ability of IPython's ability to easily share my work with non-engineers.
+
+
+
+Any advice for software engineers trying to figure out where their role should be? 
+
+Pick a company with a lot of problems, and you’re able to try out a lot of different things. You can’t figure out what you want to do just in your head — you have to try a few types of roles and move around a bit 
+
+
+---------------------------------------------------------------------
+
+
+--- What are you most proud of?
+
+Infrastructure I built, testing architecture is whats being used right now as basement for a long term project
+
+
+
+
+
+--- What was the most challenging of the project?
+
+
+Technical challenge - Learning intricacies of a new software within the stipulated time of a project. 
+
+Often times you are put on a project where you have, say, 6 months to execute it but the technology you'll be working on is not your area of expertise and then you have to spend time learning it within a month or so. This is particularly tough, especially when you are dealing with several unique concepts all at once.
+
+
+
+
+----------------------------------------------------------------------
+TOP
+
+How much importance do you guys give to innovation specially coming from junior people in the team?
+
+What is the best aspect of working for this company? What is the most challenging?
+
+Given this is a big company, how much impact do junior level engineer usually end up making to the whole product?"
+
+How do you think this position will help me grow as an engineer?"
+
+Where have successful employees previously in this position progressed to within the company?
+
+How do you guys handle things go wrong
+
+
+----------------------------------------------------------------------
+POTENTIALS
+
+What have you learned working here? 
+
+What motivates you and other employees to take company to the next level?
+
+What are the skills and attributes you value most for someone being hired for this position?
+
+
+
+Could you describe a typical day or week in this position? 
+What are the most immediate challenges of the position that need to be addressed in the first three months?
+
+
+What can you tell me about your new product or plans for growth?
+
+What would you consider to be the most important aspects of this job?
+
+What do you perceive are my greatest potential strengths and possible weakness if I were to fill this position?
+
+
+------------------------------------------------------------------------
+END
+
+Is there any other information or documentation I can provide to support my candidacy? May I share one more way I believe I may be of assistance if offered this position?
+
+What are the next steps?

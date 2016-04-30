@@ -1,0 +1,78 @@
+* What hours do most people work?
+
+
+
+* Are there opportunities for travel?
+* Are there any diversity initiatives I would be able to participate in as an employee?
+* How many meetings would you say you have a week?
+* How is mobility in the company? Between teams? Between offices?
+* How does the promotion process work here?
+
+
+UBER
+Founded in 2009
+
+June 2010: UberBLACK launches in San Francisco.
+UberBLACK was the very first car service that Uber had. 
+Luxury version 
+
+Teams:
+	Supply:
+		make sure the number of cars on the road meets the demand.
+
+	Demand:
+		Uber always hires a Community Manager for a new city
+		manages the marketing campaign and makes sure everyone in the city knows about Uber and that there are enough people demanding cars to justify the supply
+
+
+	Growth:
+
+
+
+Preparate para hablar sobre tus proyectos/trabajos. Deberias poder explicar porque tu y tu equipo tomaron las decisiones que tomaron en cuanto a eleccion de tecnologias, estrategias, algoritmos, etc. Tambien es bueno saber como responder preguntas clasicas tipo: "que fue lo mas dificil sobre el proyecto?" o "cual es un bug dificil que has solucionado", etc.
+
+Ten una buena razon de porque quieres trabajar en Uber. Leete el engineering blog. Prepara 3-5 buenas preguntas por si acaso tu entrevistadores te preguntan si les quieres preguntar algo. Por lo general, es bueno preguntar sobre cosas que le importan a ese ingeniero. Las preguntas mas interesantes son menos sobre tecnologias en especifico y mas sobre la cultura de trabajo: "como manejan errores cometidos por los ingenieros?", "que tipos de esfuerzos open source hay dentro de la compañia?", etc. 
+
+
+Tecnologias
+	Java -> Spring
+		Spring Framework
+			Migrated to Spring boot
+			Reasons:
+
+			Testing not in place. Government project so everything that is developed needs a Independent verification and validation.
+			Sloopy configuration in xml based. Hard to modify and include new settings
+			OAuth2 Authentication already in placed within Spring Boot
+
+
+			Spring boot
+			To provide a radically faster and widely accessible ‘getting started’ experience for all Spring development
+
+			To provide a range of non-functional features that are common to large classes of projects 
+			(e.g. embedded servers, security, metrics, health checks, externalized configuration)	
+
+			How:
+			Researched best resources for migration or spring projects with updated source. 
+			Found a bookb called REST 
+
+			Balaji Varanasi is a software development manager and technology entrepreneur. He has over 13 years of experience architecting and developing Java/.Net applications and, more recently, iPhone apps.
+			He has a Master s Degree in Computer Science and serves as adjunct faculty, teaching programming and information system courses.
+			University of Phoenix
+
+			Production?
+
+
+
+	Python
+
+		Data Loder
+
+
+
+	OSRM
+		Researched what technologies would best appropiate for transit. OSRM uses GTFS which is a format developed by google to represent
+		transit information. It's on continous development and improvement
+
+
+
+

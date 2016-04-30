@@ -1,0 +1,38 @@
+Few weeks back IBM came to campus and I got motivated about what Watson could do
+
+Therefore, my most recent project is called Moodsical, with so many songs and playlists out there, the purpose of it is to provide Spotify playlists related to a particular user considering their personality and emotion.
+I was able to analyze user's Twitter account using Watson to obtain a vector with different values for openness, extraversion, agreebleness, etc.
+I couldn't do with this a proper analysis for the playlists side so I built a Naive bayes classifiers to analyze songs content and classify them either with happiness, sadness or others.
+As training data for the classifier I had to use data mining tools from Spotify to give the classifier the notion of 
+what it means for a song to refer happiness.
+Tuning the classifier with different songs was very challenging, as well as matching the playlists with an user.
+To load data into the classifier I built python scripts that were gathering the hottest playlists from Spotify and getting their content as songs, and lyrics scraped from the web. Analyze it with the NodeJS server and store it on Mongo.
+In order to make it easy for the frontend Ionic was used, so I could have a Android and IOS version quickly
+
+Hardest part:
+	Build notion of a personality for a playlist and match it with user's
+	Twitter was easier to think about rather than Facebook
+
+
+	
+
+
+Short introduction -
+
+	Simplied version
+	Small amount of time why I did and why I did it
+		Guide of technical aspects in 30 seconds max
+		Tell me I was able to analyze Watson to get keywords
+			Couldn't do the sentiment analysis and built own native bayes classifiers
+			What to tune? whats so interesting
+				NodeJS and python !
+				Ionic -> cross platform
+
+	IBM Watson came to campus and ...
+
+
+	Slightly longer 
+		Why was interesting
+		Why was it hard 
+
+
