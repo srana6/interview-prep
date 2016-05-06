@@ -17,7 +17,7 @@ def valid(i, N):
 	return i >=0 and i < N
 
 def coin_change(N):
-	coins = [1, 5, 10, 25]
+	coins = [1, 2, 3]
 
 	MAX = float("inf")
 	memo = [MAX] * (N + 1)
@@ -29,7 +29,7 @@ def coin_change(N):
 				memo[money] = min(memo[money], memo[money - coin] + 1)
 
 
-	print (memo[N])
+	return (memo[N])
 
 
 # Calculates number of ways to have that. Time complexity is huge because it tries all combinations
@@ -48,13 +48,20 @@ def _makeChange(amount, denoms, index, memo):
 		i += 1
 
 	memo[amount][index] = ways
+
+	for row in memo:
+		print (row)
+		
 	return ways
 
 def makeChange(N):
-	denoms = [25, 10, 5, 1]
+	denoms = [3, 2, 1]
 	memo = [[0] * (len(denoms) + 1) for _ in range(N + 1)]
+
+	
+
 	return _makeChange(N, denoms, 0, memo)
 
 
-coin_change(10)
-print (makeChange(10))
+print ("coins", coin_change(4))
+print ("change", makeChange(4))
