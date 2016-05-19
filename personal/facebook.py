@@ -38,15 +38,14 @@ def _getPointOfFailure(arr, start, end):
 def getPointOfFailure(arr):
 	return _getPointOfFailure(arr, 0, len(arr) - 1)
 
-arr = [True, False, True, False, False, True, False, False, False, True, False, True, True, True, True, True, True, False]
-arr = [True, False, False, False]
+arr = [True, True, True, True, True, True, True, True, True, True, False, False, True, True, True, True, True, False]
 
-arr = [True]
 
-for i in range(10000000):
+"""
+for i in range(1000):
 	commit = random.choice([True, False])
 	arr.append(commit)
-
+"""
 
 sol = getPointOfFailure(arr)
 print (sol)
