@@ -20,7 +20,7 @@ class Solution(object):
         size = len(letters)
         title = []
 
-        while n > 0:
+        while n > 0:            
             title.append(letters[n % size - 1])    
             n = (n - 1) // size
 
@@ -29,5 +29,5 @@ class Solution(object):
 
 
 sol = Solution()
-print ( sol.convertToTitle(99) )
+print ( sol.convertToTitle(999) )
         

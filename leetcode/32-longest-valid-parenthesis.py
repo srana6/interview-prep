@@ -24,14 +24,26 @@ class Solution(object):
 		"""
 
 		n = len(string)
-		indexes = [0] * n
-		lengths = [0] * n
+		memo = [0] * n
+		opened = 0
+		longest = 0
 
-		max_len = 0
-		curr_len = 0
 		for i in range(n):
-			prev_index = 
+			if string[i] == '(':
+				opened += 1
 
+			else:
+				if opened > 0:
+					memo[i] = 2 + memo[i - 1]
+					opened -= 1
+					
+					# Check boundaries and check if before this sequence there was a valid input
+					if i - memo[i] >= 0 and memo[i - memo[i]] > 0:
+						memo[i] += memo[i - memo[i]]
+
+					longest = max(longest, memo[i])
+
+		return longest
 		
 
-Solution().longestValidParentheses("()()((()((()))")
+Solution().longestValidParentheses("()()()((()))")

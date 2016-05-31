@@ -30,11 +30,11 @@ def rate_limited(max_per_second):
 
 
 
-@rate_limited(10)  # 2 per second at most
+@rate_limited(2)  # 2 per second at most
 def PrintNumber(num):
 	print (num)
 
 if __name__ == "__main__":
 	print ("This should print 1,2,3... at about 2 per second.")
-	for i in range(1,10000000):
+	for i in range(1,10):
 		PrintNumber(i)
