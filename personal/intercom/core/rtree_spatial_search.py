@@ -3,5 +3,5 @@
 from core.spatial_search import SpatialSearch
 
 class RTreeSpatialSearch(SpatialSearch):
-	def _get__all_nearby(self, location, radius):
-		pass
+    def _get__all_nearby(self, location, radius):
+        pass
