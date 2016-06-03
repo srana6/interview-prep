@@ -53,7 +53,7 @@ nosetests tests/unit
 
 
 ## Architecture
-Facade pattern
-Template pattern
+- Facade pattern
+- Template pattern
 
 ![architecture](https://raw.githubusercontent.com/jcast450/interview-prep/master/personal/intercom/architecture.png)
