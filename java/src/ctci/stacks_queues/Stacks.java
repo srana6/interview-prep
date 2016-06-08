@@ -2,7 +2,7 @@ package ctci.stacks_queues;
 
 import java.util.EmptyStackException;
 
-public class Stack<T>{
+public class Stacks<T>{
 	private static class StackNode<T>{
 		private T data;
 		private StackNode<T> next;

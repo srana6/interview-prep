@@ -1,7 +1,7 @@
 package ctci.stacks_queues;
 
 public class StackMin {
-	class StackWithMin extends Stack<NodeMin> {
+	class StackWithMin extends Stacks<NodeMin> {
 		public void push(int value){
 			int newMin = Math.min(value, min());
 			super.push(new NodeMin(value, newMin));
