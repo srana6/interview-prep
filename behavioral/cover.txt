@@ -1,0 +1,20 @@
+I sincerely believe in the mantra of working relentlessly to push the limits of technology in order to make a difference in people’s lives. Learning new technologies and challenging myself into new horizons for improvement is what I love the most. When I see a gap, it inspires me and motivates me into solving it. 
+
+I worked as a Graduate Research Assistant at the High Performance Database Research Center for a project targeted to provide real-time and predictive transit information for our university area using Java, Python, and AngularJS.
+I created the core components of the API to connect the backend and frontend and developed scalable real time systems using Redis to provide an efficient mechanism to deliver data.
+
+I desire to contribute to something greater, and Apple is just what I'm looking for. I'm very inspired by its focus on quality which is the first thing comes into my mind when thinking about an Apple product. 
+
+I'm looking to forward hearing from you.
+
+
+
+
+
+
+
+I sincerely believe in the mantra of working relentlessly to push the limits of technology in order to make a difference in people’s lives. Learning new technologies and challenging myself into new horizons for improvement is what I love the most. When I see a gap, it inspires me and motivates me into solving it. 
+
+I worked as a Graduate Research Assistant at the High Performance Database Research Center for a project targeted to provide real-time and predictive transit information for our university area using Java, Python, and AngularJS, where I created core components of the API to connect the backend and frontend and developed real time systems using Redis to provide efficient mechanisms to deliver data.
+
+I desire to contribute to something greater, and Hipmunk is just what I'm looking for. I'm very inspired by its focus on learning and improvement. I've had the pleasure to learn from Steve Huffman during the Udacity course on web development he taught. It's very exciting for me to see the engagement of important members of the team into providing something valuable for the people, besides Hipmunk itself. I'd love to contribute to this ideal.

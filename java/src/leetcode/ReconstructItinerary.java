@@ -1,4 +1,6 @@
-public class ReconstructItinerary {
+package leetcode;
+
+class ReconstructItinerary {
 
 	
 	
