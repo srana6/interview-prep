@@ -18,3 +18,42 @@ I sincerely believe in the mantra of working relentlessly to push the limits of 
 I worked as a Graduate Research Assistant at the High Performance Database Research Center for a project targeted to provide real-time and predictive transit information for our university area using Java, Python, and AngularJS, where I created core components of the API to connect the backend and frontend and developed real time systems using Redis to provide efficient mechanisms to deliver data.
 
 I desire to contribute to something greater, and Hipmunk is just what I'm looking for. I'm very inspired by its focus on learning and improvement. I've had the pleasure to learn from Steve Huffman during the Udacity course on web development he taught. It's very exciting for me to see the engagement of important members of the team into providing something valuable for the people, besides Hipmunk itself. I'd love to contribute to this ideal.
+
+
+
+
+Favorite Project:
+I am most proud of a personal project of mine, Moodsical, which I built using NodeJS and Python. It's basically a way for users to get music playlists matched with their personality and feelings with the help of machine learning by analyzing and categorizing each playlist's content and user's Twitter account. The project is aimed to impact people by making them feel more connected with what they listen. 
+
+
+
+
+I am inspired by Palantir's focus into making an impact through technology and make people's lives better with the use of data. 
+Giving the right tools and platform for companies to easily learn and make data-driven decisions can drastically change destinies. 
+Particularly, something that catches my attention a lot are the Anti-fraud solutions. Security and fraud have always been a very hot topic. And, handling that at a massive scale as Palantir does looks fascinating.  
+I'd love to contribute to this ideal and feel like Gandalf saying "You shall not pass !".
+
+
+
+
+
+______________________________________________________
+
+
+Dear Recruiter:
+
+I hope your day is going well!. My name is Jose and I'm an Information Systems masters graduate at FIU. I am very interested in working at [___] as a Software Engineer. 
+What interest me the most about this position is the potential it offers for me to learn and be a better engineer in the long run, while making something sweet that people will use on a daily basis.
+
+A little about me, I'm a self-motivated enthusiast and a challenging coder who has participated into world-class programming competitions like ACM-ICPC. I have 1+ years of agile software development experience at HPDRC (High Performance Database Research Center) at FIU (Florida International University) where I found my passion in software development from my experiences with Java, Python, and Data Analysis.
+
+At HPDRC, I worked as a Graduate Research Assistant for a project called ITPA (Informed Traveler Program and Applications) targeted to provide real-time and predictive transit information for our university area. I created core components of the API and developed scalable real time systems using Redis to provide efficient mechanisms to deliver data. This project also taught me skills in Linux, MySQL databases and AngularJS. As a team player and leader, I mentored junior engineers in programming methodologies and best practices while being responsible for many key implementations that up today continue to remain stable.
+
+As an avid software engineer, learning new technologies and challenging myself into new horizons for improvement is what I love the most. When I see a gap, it inspires me and motivates me into solving it. I'm a passionate learner with interests ranging from programming to machine learning. I want to work and grow with smart, motivated and humble individuals who create a thriving working environment together while making lasting and meaningful impacts with our work.
+
+I would like to expand my repertoire and position myself to be a versatile leader in Technology, as someone with a blend of technical and leadership skills. I am very enthusiastic for this rewarding experience and I will be much grateful if I am given an opportunity to demonstrate that my zeal for innovation and problem solving will resonate with the technical teams of [__]
+I'm looking forward to hearing from you.
+
+Sincerely,
+
+Jose

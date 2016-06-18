@@ -1,4 +1,42 @@
-It's Python for sure because of fantastic libraries like Numpy and Pandas, and the ability of IPython's ability to easily share my work with non-engineers.
+Questions:
+
+What is a typical workday like?
+
+How much importance do you guys give to innovation specially coming from junior people in the team?
+
+What is the best aspect of working for this company? What is the most challenging?
+
+What is your favorite part?
+
+
+ASK THIS
+	“Actually yeah, I was wondering what your best moment so far at (company name here) was?”
+
+1. What’s the biggest change your team has gone through in the last year? Does your team feel like things are getting better in the economy and for your business?
+
+2. If I get the job, how do I earn a “gold star” on my performance review? What are the key accomplishments you’d like to see in this role over the next year?
+
+* 3. What’s your (or my future boss’) leadership style?
+
+4. About which competitor are you most worried?
+
+6. What type of people are successful here? What type of people are not?
+
+* 7. What’s one thing that’s key to this company’s success that somebody from outside the company wouldn’t know about?
+
+8. How did you get your start in this industry? Why do you stay?
+
+9. What keeps you up at night? What’s your biggest worry these days?
+
+10. What’s the timeline for making a decision on this position? When should I get back in touch with you?
+
+
+* 11. What is your reward system? Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Why is that your reward system? If you could change any one thing about it, what would it be?
+
+
+14. Who are the heroes at your company? What characteristics do the people who are most celebrated have in common with each other? Conversely, what are the characteristics that are common to the promising people you hired, but who then flamed out and failed or left?
+
+
 
 
 
@@ -86,3 +124,9 @@ END
 Is there any other information or documentation I can provide to support my candidacy? May I share one more way I believe I may be of assistance if offered this position?
 
 What are the next steps?
+
+
+
+
+
+It's Python for sure because of fantastic libraries like Numpy and Pandas, and the ability of IPython's ability to easily share my work with non-engineers.

@@ -81,6 +81,7 @@ class Operand(object):
 
 class Operator(object):
     def perform_operation(operand_a, operand_b):
+        pass
         
     
 class Addition(Operator):
