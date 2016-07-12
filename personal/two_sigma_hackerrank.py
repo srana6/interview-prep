@@ -104,3 +104,54 @@ def palindrome(string):
     
     
     
+
+
+from collections import deque
+
+def bfs(start, words):
+    chain = 0    
+    queue = deque([(start, 1)])
+
+    while queue:
+        word, length = queue.popleft()
+
+        chain = max(chain, length)
+
+        w_size = len(word)
+        for i in range(w_size):
+            substring = word[:i] + word[i + 1:]
+            if substring in words:
+                queue.append((substring, length + 1))
+
+    return chain
+
+
+
+
+    
+
+def longestChain(words):
+    if not words: return 0        
+    size = len(words)
+    words = set(words)
+    longest = 0
+
+    for word in words:
+        longest = max(longest, bfs(word, words))
+
+    return longest
+
+
+
+
+
+words = [
+    "a",
+    "b",
+    "ba",
+    "bca",
+    "bda",
+    "bdca"
+]
+
+longestChain(words)
